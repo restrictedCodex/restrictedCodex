@@ -64,7 +64,7 @@
 
 ---
 
-**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** 🥤 🙊_
+**Fun Fact ⚡**: _I'm availabe 🙋‍♂️ to grab a **coffee** ☕ 🙊_
 
 ---
 
