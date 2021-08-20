@@ -30,7 +30,7 @@
 
 ### Most Used Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restrictedCodex&layout=compact&theme=midnight-purple)](https://github.com/Akash1362000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restrictedCodex&layout=compact&theme=midnight-purple)](https://github.com/restrictedCodex)
 
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
