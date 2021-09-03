@@ -2,38 +2,41 @@
 
 ![Charudutta Chaudhari](https://i.imgur.com/5Z4BLKr.png)
 
-#### Welcome to my profile 💻
+### Welcome to my profile 💻
 
-* Pursuing B.E. In Information Technology at Dr. DY Patil College of Engineering, Pune 👨‍💻
-* Full Stack Developer
-* 4⭐ programmer at Codechef 
-* React Developer 🌐
-* Open source Enthusiast 👨‍💻
-* UI/UX 
-* Loves to Code and Design 👨‍💻👨‍🎨
-* **Hobbies**: ⛹️‍♂️ , 🎨 and 📕
-* Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/charudutta-chaudhari-a980661a0/) ! 
+- Pursuing B.E. In Information Technology at Dr. DY Patil College of Engineering, Pune 👨‍💻
+- Full Stack Developer
+- 4⭐ programmer at Codechef
+- React Developer 🌐
+- Open source Enthusiast 👨‍💻
+- UI/UX
+- Loves to Code and Design 👨‍💻👨‍🎨
+- **Hobbies**: ⛹️‍♂️ , 🎨 and 📕
+- Want to connect with me ? Just drop a **Hi** 👋 [here](https://www.linkedin.com/in/charudutta-chaudhari-a980661a0/) !
 
-### Mostly Work With ⚒
+## Mostly Work With ⚒
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-|<img src="https://github-readme-stats.vercel.app/api?username=restrictedCodex&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=restrictedCodex"/>|
-|---|---|
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-### Most Used Languages 💻
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restrictedCodex&layout=compact&theme=midnight-purple)](https://github.com/restrictedCodex)
+| <img src="https://github-readme-stats.vercel.app/api?username=restrictedCodex&&show_icons=true&count_private=true&include_all_commits=true"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=restrictedCodex"/> |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 
+## Most Used Languages 💻
 
-### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restrictedCodex)](https://github.com/restrictedCodex)
+
+## Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 <div align="center">
  <a href="https://www.linkedin.com/in/charudutta-chaudhari-a980661a0/" target="_blank">
@@ -56,11 +59,11 @@
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=Charu Instagram style="margin-bottom: 5px;" />
 </a>
                                                                                                                                                  
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=Charu Facebook style="margin-bottom: 5px;" />
-</a>  
+<a href="https://leetcode.com/restrictedcharudutta/" target="_blank">
+<img src=https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black alt=Charu Facebook style="margin-bottom: 5px;" />
+</a>
 
-</div>  
+</div>
 
 ---
 
