@@ -33,8 +33,11 @@
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 
 ## Most Used Languages 💻
-
+<div align='center'>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restrictedCodex)](https://github.com/restrictedCodex)
+
+</div>
 
 ## Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
